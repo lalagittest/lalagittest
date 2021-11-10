@@ -5,4 +5,5 @@
    <img align = "center" alt = "css" height = "30" width = "40" scr = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img align = "center" alt = "python" height = "30" width = "40" scr = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
  </div>
-  
+ 
+ ![Snake animation](https://github.com/lalagittest/lalagittest/blob/output/github-contribuition-grid-snake.svg)
