@@ -20,9 +20,9 @@ Projects
 Wiki
 Security
 Insights
-ELLEN2121/.github/workflows/main.yml
-@ELLEN2121
-ELLEN2121 Create main.yml
+lalagittest/.github/workflows/main.yml
+@lalagittest
+lalagittest Create main.yml
 Latest commit 2fb55af on 5 Jun
  History
  1 contributor
@@ -44,7 +44,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ellen2121
+          github_user_name: lalagittest
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
